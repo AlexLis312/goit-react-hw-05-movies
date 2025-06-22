@@ -1,0 +1,17 @@
+.cast-error {
+  color: red;
+  font-weight: bold;
+}
+
+.cast-img {
+  width: 100px;
+}
+
+.cast-list {
+  list-style: none;
+  padding: 0;
+}
+
+.cast-item {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,39 @@
+.home-wrapper {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.home-title {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.home-error {
+  color: red;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.home-movie-list {
+  list-style: none;
+  padding: 0;
+}
+
+.home-movie-item {
+  margin: 8px 0;
+}
+
+.home-movie-link {
+  color: #007acc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.home-movie-link:hover {
+  text-decoration: underline;
+}
